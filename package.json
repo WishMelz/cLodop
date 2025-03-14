@@ -1,23 +1,24 @@
 {
-  "name": "cLodop",
-  "version": "1.0.1",
-  "description": "cLodop",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {
-      "prepublish": "npm run build",
-      "build": "tsc",
-      "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-      "type": "git",
-      "url": "https://github.com/WishMelz/cLodop"
-  },
-  "author": "WishMeLz",
-  "license": "ISC",
-  "files": [
-      "/dist",
-      "/src"
-  ],
-  "__npminstall_done": false
+    "name": "clodop",
+    "version": "1.0.2",
+    "description": "clodop, clodop打印插件",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "prepublish": "npm run build",
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WishMelz/clodop"
+    },
+    "author": "WishMeLz",
+    "license": "ISC",
+    "files": [
+        "/dist",
+        "/src"
+    ],
+    "__npminstall_done": false,
+    "dependencies": {}
 }
