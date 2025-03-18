@@ -1,9 +1,10 @@
-## cLodop
+## clodop
 
 clodop打印机插件，其他语法与官网一样，只是简化注册步骤。目前兼容最低版本：6.2.2.6
 
 官网：http://www.c-lodop.com/LodopDemo.html
 
+npm：https://www.npmjs.com/package/clodop
 
 
 ### vue 项目中使用
