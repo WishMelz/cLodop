@@ -13,7 +13,7 @@ npm i clodop
 ```
 
 ```javascript
-import { getLodop, initialize } from 'cLodop'
+import { getLodop, initialize } from 'clodop'
 // 初始化打印环境
 initialize({
     token:"xxxxxx"
