@@ -8,6 +8,10 @@ npm：https://www.npmjs.com/package/clodop
 
 
 ### vue 项目中使用
+```
+npm i clodop
+```
+
 ```javascript
 import { getLodop, initialize } from 'cLodop'
 // 初始化打印环境
