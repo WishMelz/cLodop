@@ -1,7 +1,7 @@
 {
     "name": "clodop",
-    "version": "1.0.2",
-    "description": "clodop, clodop打印插件",
+    "version": "1.0.3",
+    "description": "clodop,Lodop,clodop打印插件",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
